@@ -1,0 +1,2 @@
+# TamaGit
+ tamagotchi
